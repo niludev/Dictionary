@@ -1,0 +1,82 @@
+{
+    "words": [
+        {
+            "title": "http",
+            "meaning": "Hypertext Transfer Protocol, is something cool",
+            "tags": [
+                "request",
+                "response",
+                "html"
+            ]
+        },
+        {
+            "title": "htm",
+            "meaning": "The old version of html",
+            "tags": [
+                "html"
+            ]
+        },
+        {
+            "title": "html",
+            "meaning": "Hypertext Markup Language, which helps you to create web pages",
+            "tags": [
+                "css",
+                "html"
+            ]
+        },
+        {
+            "title": "Algolia",
+            "meaning": "This is a hosted search engine, offering capable of delivering real-time results from the first keystroke and have search API.",
+            "tags": [
+                "React-InstantSearchl",
+                "engine",
+                "API"
+            ],
+            "source": "https://www.algolia.com/"
+        },
+        {
+            "title": "React InstantSearch",
+            "meaning": "This is an open-source, production-ready UI library for React that lets you quickly build a search interface in your front-end application and it is a React library that lets you create an instant search results experience using Algolia's search API.",
+            "tags": [
+                "Algolia",
+                "UI-library",
+                "React"
+            ],
+            "source": "https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/"
+        },
+        {
+            "title": "Widgets in React InstantSearch",
+            "meaning": "They are React components that have a predefined behavior and render output (DOM or Native).1-predefined widgets, 2-extending widgets, 3-custom widgets",
+            "tags": [
+                "Algolia",
+                "InstantSearch",
+                "React",
+                "attribute"
+            ],
+            "source": "https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/"
+        },
+        {
+            "title": "attributes in React InstantSearch",
+            "meaning": "Widgets usually have options to alter their behavior a bit; options can be passed to widgets via attributes.",
+            "tags": [
+                "Algolia",
+                "InstantSearch",
+                "React",
+                "Widget"
+            ],
+            "source": "https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/"
+        },
+        {
+            "title": "InstantSearch root widget",
+            "meaning": "This widget is the InstantSearch root widget, which is responsible for the communication between your application and Algolia. This widget wraps all other React InstantSearch widgets.",
+            "tags": [
+                "Algolia",
+                "InstantSearch",
+                "React",
+                "Widget",
+                "root"
+            ],
+            "source": "https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/"
+        }
+    ]
+}
